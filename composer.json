@@ -24,7 +24,7 @@
         "php": "^8.2",
         "arhitov/laravel-helpers": "^0.1",
         "arhitov/laravel-package-helpers": ">0.2",
-        "laravel/framework": "^10",
+        "laravel/framework": "^12",
         "omnipay/common": "^3.3",
         "omnireceipt/common": "^1.4",
         "watson/validating": "^8.2",
